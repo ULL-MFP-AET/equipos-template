@@ -16,3 +16,12 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * Alumnos
   * [Alumno 1]()
   * [Alumno 2]()
+
+## Alumno 2
+
+* [GH Classroom]()
+* [Organización de Clase]()
+* [Profesor]()
+* Alumnos
+  * [Alumno 1]()
+  * [Alumno 2]()

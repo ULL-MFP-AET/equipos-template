@@ -1,4 +1,4 @@
-# equipos-template
+# Equipos
 
 Template para el lab equipos.
 

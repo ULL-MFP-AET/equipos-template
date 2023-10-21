@@ -10,7 +10,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Alumno 1
 
-* [GH Classroom}()
+* [GH Classroom]()
 * [Organización de Clase]()
 * [Profesor]()
 * Alumnos

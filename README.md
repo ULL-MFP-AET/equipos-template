@@ -13,7 +13,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [GH Classroom]()
 * [Organización de Clase]()
 * [Profesor]()
-* Alumnos
+* Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
 
@@ -22,6 +22,6 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [GH Classroom]()
 * [Organización de Clase]()
 * [Profesor]()
-* Alumnos
+* Alumnos en la organización
   * [Alumno 1]()
   * [Alumno 2]()
